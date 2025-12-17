@@ -1,2 +1,11 @@
-# Structural-Engineering-Excel-Models
-Excel-based structural analysis tools for civil engineering applications
+# Structural Engineering Excel Models
+
+This repository contains Excel-based tools developed to support structural analysis and design learning.
+
+The models demonstrate how spreadsheet and data analysis techniques can be applied to civil and structural engineering problems.
+
+## Models Included
+- Simply Supported Beam Analysis (UDL)
+
+## Author
+Civil Engineering Graduate | Structural Analysis & Data Analytics

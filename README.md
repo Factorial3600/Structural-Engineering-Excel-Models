@@ -9,4 +9,5 @@ The models demonstrate how spreadsheet and data analysis techniques can be appli
 
 ## Author
 Akinwumi Abdulazeez Kolawole
+
 Civil Engineering Graduate | Structural Analysis & Data Analytics

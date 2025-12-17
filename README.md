@@ -8,4 +8,5 @@ The models demonstrate how spreadsheet and data analysis techniques can be appli
 - Simply Supported Beam Analysis (UDL)
 
 ## Author
+Akinwumi Abdulazeez Kolawole
 Civil Engineering Graduate | Structural Analysis & Data Analytics
